@@ -55,4 +55,6 @@ Beijing, China
 ## Strengths  
 - Strong coding ability.
 - Strong problem-solving and collaborative skills.  
-- Passionate about exploring cutting-edge AI technologies.  
+- Passionate about exploring cutting-edge AI technologies.
+
+- https://leetcard.jacoblin.cool/zzxzzx0_0?theme=transparent&font=Rasa&ext=heatmap&site=cn
