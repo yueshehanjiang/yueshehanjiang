@@ -34,7 +34,7 @@ Beijing, China
 - Designed an MLP-based ResNet model, trained and evaluated its performance on the MNIST dataset, and optimized the training process using Kaiming and Xavier initialization methods.  
 
 ### CMU 15-455/645 Fall 2023 Database Systems  
-*Jan 2025 - Feb 2025*  
+*Mar 2025 - Mar 2025*  
 - Built `bustub`, a relational database management system implemented in C++, supporting basic SQL, memory management, indexing, optimizers, executors, and snapshot isolation-level concurrency control.  
 - ​**Buffer Pool**: Managed disk data pages in memory using the LRU-K page replacement algorithm, reducing disk access and enabling efficient data read/write through background threads and message queues.  
 - ​**Indexing**: Implemented a scalable hash table-based hash index, supporting concurrent lookups and insertions for efficient and scalable indexing.  
