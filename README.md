@@ -55,6 +55,6 @@ Beijing, China
 ---
 
 ## Strengths  
-- Proficient in model reproduction and optimization.  
+- Strong coding ability.
 - Strong problem-solving and collaborative skills.  
 - Passionate about exploring cutting-edge AI technologies.  
