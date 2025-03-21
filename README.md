@@ -19,7 +19,7 @@ Beijing, China
 ## Technical Skills  
 - ​**Programming Languages**: C/C++, Java, Python. Proficient in modern C++, including smart pointers, template metaprogramming, Lambda expressions, move semantics, and concurrent programming. Skilled in using STL containers and algorithms, and writing robust code following RAII principles.  
 - ​**Algorithms and Data Structures**: Familiar with basic data structures and common algorithms, such as sorting, dynamic programming, and graph-related algorithms.  
-- ​**Database**: Proficient in MySQL fundamentals, including indexes, locks, transactions, and optimization.  
+- ​**Database**: Familiar with MySQL fundamentals, including indexes, locks, transactions, and optimization.  
 - ​**Operating Systems**: Knowledgeable in process management, memory management, file management, and device management.  
 - ​**Tools**: Experienced in Linux operations and using tools like Git, Make, GDB, and Vim for development.  
 - ​**Other**: Skilled in writing Markdown documents and actively sharing knowledge on the SCDN community (total views: 32k).  
