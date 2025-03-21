@@ -57,4 +57,4 @@ Beijing, China
 - Strong problem-solving and collaborative skills.  
 - Passionate about exploring cutting-edge AI technologies.
 
-- https://leetcard.jacoblin.cool/zzxzzx0_0?theme=transparent&font=Rasa&ext=heatmap&site=cn
+![LeetCode Stats](https://leetcard.jacoblin.cool/zzxzzx0_0?theme=transparent&font=Rasa&ext=heatmap&site=cn)
