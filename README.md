@@ -1,5 +1,5 @@
-# Zeng Zijun  
-📧 2478015300@qq.com | 📍 Beijing  
+# Zeng Zixun  
+📧 2478015300@qq.com | 📍 23 years old
 
 ---
 
@@ -44,8 +44,13 @@ Beijing, China
 ---
 
 ## Achievements  
-- ​**Awards**: National Scholarship (2022, 2023), CCPC/ICPC Regional Bronze Medal (2023).  
-- ​**English Proficiency**: CET-6 (620/710), fluent in technical paper reading.  
+- ​**Awards**:  
+  - ACM-ICPC Asia Invitational (Xi’an) Gold Medal (2023)  
+  - ACM-ICPC Asia Regional (Hangzhou) Silver Medal (2023)  
+  - ACM-ICPC Asia Regional (Nanjing) Silver Medal (2023)  
+  - ACM-ICPC Asia Final (Shanghai) Bronze Medal (2023)  
+  - ACM-ICPC Asia Regional (Hefei) Silver Medal (2022)  
+- ​**English Proficiency**: fluent in technical paper reading.  
 
 ---
 
