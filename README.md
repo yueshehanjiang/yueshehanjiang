@@ -28,13 +28,11 @@ Beijing, China
 
 ## Project Experience  
 ### CMU 10-414/714: Deep Learning Systems  
-*Mar 2025 - Mar 2025*  
 - Implemented a lightweight deep learning framework, `needle`, supporting automatic differentiation, neural network modules, and optimizers.  
 - Developed core modules, including automatic differentiation, linear layers, ReLU, Dropout, BatchNorm, and LayerNorm, as well as SGD and Adam optimizers.  
 - Designed an MLP-based ResNet model, trained and evaluated its performance on the MNIST dataset, and optimized the training process using Kaiming and Xavier initialization methods.  
 
 ### CMU 15-455/645 Fall 2023 Database Systems  
-*February 2025 - Mar 2025*  
 - Built `bustub`, a relational database management system implemented in C++, supporting basic SQL, memory management, indexing, optimizers, executors, and snapshot isolation-level concurrency control.  
 - ​**Buffer Pool**: Managed disk data pages in memory using the LRU-K page replacement algorithm, reducing disk access and enabling efficient data read/write through background threads and message queues.  
 - ​**Indexing**: Implemented a scalable hash table-based hash index, supporting concurrent lookups and insertions for efficient and scalable indexing.  
